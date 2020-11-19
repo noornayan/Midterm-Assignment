@@ -1,0 +1,14 @@
+D:\C#\University Management System\University Management System\University Management System\bin\Debug\University Management System.exe.config
+D:\C#\University Management System\University Management System\University Management System\bin\Debug\University Management System.exe
+D:\C#\University Management System\University Management System\University Management System\bin\Debug\University Management System.pdb
+D:\C#\University Management System\University Management System\University Management System\obj\Debug\University Management System.csprojAssemblyReference.cache
+D:\C#\University Management System\University Management System\University Management System\obj\Debug\University Management System.csproj.CoreCompileInputs.cache
+D:\C#\University Management System\University Management System\University Management System\obj\Debug\University Management System.exe
+D:\C#\University Management System\University Management System\University Management System\obj\Debug\University Management System.pdb
+C:\Users\User\Downloads\Compressed\Assignment-Mid-Fall-20-21-master\University Management System\University Management System\bin\Debug\University Management System.exe.config
+C:\Users\User\Downloads\Compressed\Assignment-Mid-Fall-20-21-master\University Management System\University Management System\bin\Debug\University Management System.exe
+C:\Users\User\Downloads\Compressed\Assignment-Mid-Fall-20-21-master\University Management System\University Management System\bin\Debug\University Management System.pdb
+C:\Users\User\Downloads\Compressed\Assignment-Mid-Fall-20-21-master\University Management System\University Management System\obj\Debug\University Management System.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Compressed\Assignment-Mid-Fall-20-21-master\University Management System\University Management System\obj\Debug\University Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Compressed\Assignment-Mid-Fall-20-21-master\University Management System\University Management System\obj\Debug\University Management System.exe
+C:\Users\User\Downloads\Compressed\Assignment-Mid-Fall-20-21-master\University Management System\University Management System\obj\Debug\University Management System.pdb
